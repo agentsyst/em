@@ -1,6 +1,6 @@
-﻿# AgentSys
+﻿# AgentSyst
 
-An integrated remote management system for Mobile and Desktop devices. AgentSys allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
+An integrated remote management system for Mobile and Desktop devices. AgentSyst allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
 
 ## 🌟 Key Features
 
