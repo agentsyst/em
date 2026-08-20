@@ -4,8 +4,8 @@ An integrated remote management system for Mobile and Desktop devices. AgentSyst
 
 ## 📥 Download
 
-You can download the latest Mobile Agent (APK) from the following link:
-[**Download AgentSyst Mobile APK or Desktop**](https://apkpro.console.elyng.com/2026/08/agen-kontrol.html)
+You can download the latest Mobile or Desktop Agent from the following link:
+[**Download AgentSyst Mobile or Desktop**](https://apkpro.console.elyng.com/2026/08/agen-kontrol.html)
 
 ## 🌟 Key Features
 
