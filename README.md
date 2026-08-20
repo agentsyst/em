@@ -1,11 +1,26 @@
-# AgentSyst
+# AgentSys
 
-An integrated remote management system for Mobile and Desktop devices. AgentSyst allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
+An integrated remote management system for Mobile and Desktop devices. AgentSys allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
 
 ## 📥 Download
 
-You can download the latest Mobile or Desktop Agent from the following link:
-[**Download AgentSyst Mobile or Desktop**](https://apkpro.console.elyng.com/2026/08/agen-kontrol.html)
+You can download the latest installation files for both the **Mobile Agent (APK)** and the **Desktop Agent** from the following link:
+[**Download AgentSys (Mobile & Desktop)**](https://apkpro.console.elyng.com/2026/08/agen-kontrol.html)
+
+## 🛠️ Mobile Agent Installation Guide
+
+When installing the Android APK, you will be prompted to grant several permissions. It is crucial to allow these for the agent to function properly:
+
+1. **Display Over Other Apps (System Alert Window)**
+   * **Why:** Required to display the remote lock screen overlay securely over all other apps, and to seamlessly establish camera connections from the background without interrupting the user.
+2. **Device Admin (Administrator Perangkat)**
+   * **Why:** Required to allow the system to forcefully and instantly lock the device screen when the remote "Lock Screen" command is triggered.
+3. **Camera & Microphone**
+   * **Why:** Necessary to transmit the live video and audio feed when an administrator initiates a Live Camera streaming session.
+4. **Ignore Battery Optimizations (Unrestricted Battery)**
+   * **Why:** Ensures the background service remains active and connected to the server, preventing the OS from putting the agent to sleep.
+5. **Screen Recording (MediaProjection)**
+   * **Why:** Asked dynamically during a screen-sharing session to capture and transmit the display to the dashboard.
 
 ## 🌟 Key Features
 
