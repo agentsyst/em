@@ -1,16 +1,16 @@
-# AgentSys
+﻿# AgentSys
 
 An integrated remote management system for Mobile and Desktop devices. AgentSys allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
 
-## ?? Key Features
+## 🌟 Key Features
 
 - **Remote Lock Screen:** Instantly lock device screens remotely and display customized messages.
 - **Live Camera Streaming:** Gain real-time access to both front and rear cameras. Includes specialized mechanisms to bypass background camera restrictions on modern operating systems.
 - **Real-time Screen Share:** Directly monitor the user's screen in real-time.
-- **??? Secure Privacy Protection:** Designed with high-level privacy in mind. When a user types a password or enters sensitive data on their mobile device, the screen input is automatically masked and protected, ensuring it remains invisible and secure during an active Screen Share session.
+- **🛡️ Secure Privacy Protection:** Designed with high-level privacy in mind. When a user types a password or enters sensitive data on their mobile device, the screen input is automatically masked and protected, ensuring it remains invisible and secure during an active Screen Share session.
 - **Desktop Resource Sharing:** The desktop agent supports sharing local hardware functionalities, such as printers, seamlessly within the network.
 
-## ?? Project Architecture
+## 📂 Project Architecture
 
 The project is divided into several components based on their roles:
 
