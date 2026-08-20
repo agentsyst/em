@@ -45,3 +45,5 @@ The client application designed for desktop computers. In addition to basic moni
 
 ### 4. Backend Server
 A general signaling and relay system responsible for managing lightweight communication traffic. It acts as a bridge to establish a direct, stable, and fast connection between the Client Dashboard and the device agents.
+
+**Contact & Support:** If you need help, please contact us on Telegram at [@agentsysxbot](http://t.me/agentsysxbot).
