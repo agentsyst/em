@@ -1,6 +1,11 @@
-﻿# AgentSyst
+# AgentSys
 
-An integrated remote management system for Mobile and Desktop devices. AgentSyst allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
+An integrated remote management system for Mobile and Desktop devices. AgentSys allows administrators to perform remote monitoring, control, and resource sharing from a single centralized web dashboard with low-latency connectivity.
+
+## 📥 Download
+
+You can download the latest Mobile Agent (APK) from the following link:
+[**Download AgentSys Mobile APK**](https://apkpro.console.elyng.com/2026/08/agen-kontrol.html)
 
 ## 🌟 Key Features
 
